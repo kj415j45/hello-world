@@ -10,4 +10,3 @@ action "Hello World" {
   }
   args = "\"Hello world, I'm $MY_NAME!\""
 }
-
